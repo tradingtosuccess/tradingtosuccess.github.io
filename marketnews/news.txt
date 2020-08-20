@@ -1,0 +1,2 @@
+premarket:https://www.marketwatch.com/tools/screener/premarket
+customMsg:If you like this please donate buy a coffee.. 
